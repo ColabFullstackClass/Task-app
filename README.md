@@ -1,0 +1,6 @@
+-   Fix the update screen button , make the logic better
+-   allow user to mark task as done
+-   allow usr to delete task
+-   make the UI appealing
+-   No alerts / confrim please
+-   Bonus points for clean code
